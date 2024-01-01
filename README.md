@@ -35,7 +35,7 @@ Follow these steps to get started with the Cricket Live Scores Checker:
 Contributions are welcome! If you have ideas for new features, improvements, or bug fixes, feel free to submit a pull request. Before contributing, please read the Contributing Guidelines.
 
 ## Acknowledgments
-- Thanks to the creators of the public cricket API used in this project.
+- Thanks to the creators of the free public cricket API from https://cricketdata.org/ that I used in this project.
 - Special thanks to the open-source community for contributions and feedback.
 
 ## Contact
